@@ -1,4 +1,4 @@
-let Token = function() { return '1008083652:AAGUBePb3MXvLw0jV6mwdUltV8ab5lGMsIs'; };
+let Token = function() { return '1018017494:AAGEJnfPNuyGH_dYmDtbK8IOLyNLn768s1w'; };
 
 module.exports = {
     Token: Token
