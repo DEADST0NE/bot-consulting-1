@@ -18,6 +18,7 @@ var request = require('request');
         let newHelloMessage = helloMessage.helloMessage1() + msg.from.first_name + helloMessage.helloMessage2(); // Собираем строку из '1 сообшения + имени пользователя + 2 сообшения
         
         switch (msg.text){
+            
             case 'Часто задаваемые вопросы':
                 bot.sendMessage(chatId, 'Ответы на часто задаваймые вопросы', {
                     reply_markup: {
@@ -25,9 +26,11 @@ var request = require('request');
                     }
                 });
                 break;
+
             case 'Преимущества Ноды':
                 bot.sendMessage(chatId, benefitsOfMode.benefitsOfMode(), {parse_mode : "HTML"});
                 break;
+
             case 'Лидер Ноды и его Контакты':
                 bot.sendMessage(chatId, nameLidNode.nameLidNode(), {parse_mode : "HTML"});
 
@@ -39,6 +42,7 @@ var request = require('request');
 
                 
                 break;
+
             default: 
                 bot.sendMessage(chatId, newHelloMessage, {
                     reply_markup:{
