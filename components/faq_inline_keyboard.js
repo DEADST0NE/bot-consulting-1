@@ -7,7 +7,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '2. Как заработать на криптовалюте Yusra ?',
+            text: '2. Как получить профит в криптовалюте  ?',
             callback_data: '2'
         }
     ],
@@ -19,7 +19,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '4. Как купить криптовалюту Yusra ?',
+            text: '4. Как получить криптовалюту Yusra ?',
             callback_data: '4'
         }
     ],
@@ -37,7 +37,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '7. Когда можно купить монеты на сайте ?',
+            text: '7. Когда можно получить монеты на сайте',
             callback_data: '7'
         }
     ],
