@@ -7,7 +7,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '2. Как получить профит в криптовалюте  ?',
+            text: '2. Как получить профит в криптовалюте Yusra ?',
             callback_data: '2'
         }
     ],
