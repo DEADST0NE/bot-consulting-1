@@ -31,7 +31,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '6. Как пользоваться Yusra Pay ?',
+            text: '6. Что такое Yusra Pay и как пользоваться ?',
             callback_data: '6'
         }
     ],
