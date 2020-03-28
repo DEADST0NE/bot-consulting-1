@@ -61,7 +61,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '11. Как отслеживать историю транзакций историю транзакций в Explorer Waves ?',
+            text: '11. Как отслеживать историю транзакций в Explorer Waves ?',
             callback_data: '11'
         }
     ],
