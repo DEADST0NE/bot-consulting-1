@@ -49,10 +49,10 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '9. Что такое HALVING и GROWING?',
+            text: '9. Что такое HALVING и GROWING ?',
             callback_data: '9'
         }
-    ],
+    ], 
     [
         {
             text: '10. Как отслеживать историю транзакций в Explorer Waves ?',
@@ -121,7 +121,7 @@ let faqInlineKeyboard = function() { return [
     ],
     [
         {
-            text: '21. А если государство запретит ?',
+            text: '21. А если государство запретит?',
             callback_data: '21'
         }
     ],
