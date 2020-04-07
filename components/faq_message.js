@@ -34,9 +34,15 @@ https://t.me/yusra_online
 
 `,
 //---- 
-`5. Что такое Нода и как создать Ноду:
- 
-https://www.youtube.com/watch?v=TgxLvErGOd0 `,
+`5. Что такое Нода и как создать Ноду: 
+
+Что такое Нода?
+ссылка на видео:
+https://www.youtube.com/watch?v=TgxLvErGOd0
+
+Как создать свою Ноду и подключиться к существующей Ноде
+ссылка на видео:
+https://www.youtube.com/watch?v=rNKiFCA_SAI`,
 //----    
 `6. Что такое Yusra Pay и как пользоваться 
 
